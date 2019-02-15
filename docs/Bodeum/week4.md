@@ -56,10 +56,10 @@ layout: default
 <br>
 
 ### 5. Presentation(발표일 : 금))
-1. Stat 110 (2019 01 22 화) : 주태민
-2. Linear Algebra (2019 01 22 화) : 김희철
-3. Computer Vision (2019 01 24 목) : 김희철
-4. CS231n (2019 01 24 목) : 주태민
+1. Stat 110 (2019 02 15 금) : 주태민
+2. Linear Algebra (2019 02 15 금) : 김희철
+3. Computer Vision (2019 02 15 금) : 김희철
+4. CS231n (2019 02 15 금) : 주태민
 <br> 
 
 ### 7. Assignments
