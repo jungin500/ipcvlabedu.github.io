@@ -90,7 +90,7 @@ layout: default
 ### 7. Assignments
 1. ~~Stat 110 : No Assignments this week~~
 2. ~~Linear Algebra : No Assignments this week~~
-3. Computer Vision : **[[Assignment #5]](http://visual.kangwon.ac.kr/assignment)**  
+3. Computer Vision : **[[Assignment #5]](http://visual.kangwon.ac.kr/assignment)**  과제 꼭 제출해주세요! 
 4. ~~CS231n : No Assignments this week~~
 <br> 
 
