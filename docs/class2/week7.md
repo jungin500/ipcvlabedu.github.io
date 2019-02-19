@@ -18,7 +18,8 @@ layout: default
 - [x] ~~[Lec 11 - 포아송분포 (The Poisson distribution)(42:45)](https://www.edwith.org/harvardprobability/lecture/30903/)~~
 - [x] ~~[Lec 12 - 이산, 연속, 균등분포 (Discrete vs. Continuous, the Uniform)(49:55)](https://www.edwith.org/harvardprobability/lecture/30904/)~~  
 - [ ] **[Lec 13 - 정규분포 (Normal Distribution)(51:09)](https://www.edwith.org/harvardprobability/lecture/30905/)**
-- [ ] **[Lec 14 - 위치, 척도 및 무의식적인 통계학자의 법칙(Location, Scale, and LOTUS)(48:54)](https://www.edwith.org/harvardprobability/lecture/30906/)**
+- [ ] **[Lec 14 - 위치, 척도 및 무의식적인 통계학자의 법칙(Location, Scale, and LOTUS)(48:54)](https://www.edwith.org/harvardprobability/lecture/30906/)**  
+
 
  <br>
 
@@ -90,7 +91,7 @@ layout: default
 ### 7. Assignments
 1. ~~Stat 110 : No Assignments this week~~
 2. ~~Linear Algebra : No Assignments this week~~
-3. Computer Vision : **[[Assignment #5]](http://visual.kangwon.ac.kr/assignment)**  
+3. Computer Vision : **[[Assignment #5]](http://visual.kangwon.ac.kr/assignment)** 과제 꼭 제출해주세요. 
 4. ~~CS231n : No Assignments this week~~
 <br> 
 
