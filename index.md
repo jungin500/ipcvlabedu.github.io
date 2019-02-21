@@ -44,7 +44,9 @@ layout: default
 #### [Notice](./docs/Bodeum/notice.html)
 >- [x] [week1](./docs/Bodeum/week1.html)
 >- [x] [week2](./docs/Bodeum/week2.html)
->- [ ] [week3](./docs/Bodeum/week3.html)
+>- [x] [week3](./docs/Bodeum/week3.html)
+>- [x] [week4](./docs/Bodeum/week4.html)
+>- [ ] [week5](./docs/Bodeum/week5.html)
 
 
 
