@@ -3,28 +3,66 @@ layout: default
 ---  
    
 ### **리뉴얼 스터디 공지**  
-기존에 하던 컴퓨터 비전을 중단하고 ‘따라하며 배우는 C++’ 강좌를 보는 것으로 변경했습니다.  
-C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 공부가 필요한 경우 개인적으로 강좌를 들으시면 됩니다.  
-그 후에는 일주일에 정해진(약 2시간) 분량을 듣고,  
-**강좌를 보며 따라 친 실습 코드에 자신이 이해한대로 주석을 달아 각자의 깃허브 레포지터리에 올리는 형식**으로 하기로 정해졌습니다.  
-또한, 진행자는 **WEEK 4**부터 지난 스터디와 같이 한 명씩 돌아가면서 자신이 올린 코드에 대해 설명하는 것으로 변경했습니다.
+기존에 하던 컴퓨터 비전을 중단하고 ‘따라하며 배우는 C++’ 강좌를 보는 것으로 변경했습니다. C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 공부가 필요한 경우 개인적으로 강좌를 들으시면 됩니다.  
 
-이 강좌를 완강한 후에는 팀을 만들어 프로젝트를 진행할 예정입니다.  
-  
-  Statistics는 정해지는 대로 다시 공지하겠습니다!
+그 후에는 일주일에 정해진(약 2시간) 분량을 듣고, **강좌를 보며 따라 친 실습 코드에 자신이 이해한대로 주석을 달아 각자의 깃허브 레포지터리에 올리는 형식**으로 하기로 정해졌습니다. 또한, 진행자는 **WEEK 4**부터 지난 스터디와 같이 한 명씩 돌아가면서 자신이 올린 코드에 대해 설명하는 것으로 변경했습니다.  
+
+이 강좌 완강한 후에는 팀을 만들어 프로젝트를 진행할 예정입니다.
 
 ---
-<br>
 
+### 스터디 일정
+- 매주 월/목요일 저녁 7시
+- 월요일: 따배C++, 숙명여대 기초통계학
+- 목요일: Linear Algebra, CS231n
 
+---
 ## Week8 (2019 03 18  - 03 24)  
-### 1. **[따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus/)**  ← 누르면 사이트로 이동합니다.  
-- [ ] **Chapter 0. 시작해봅시다**  
+
+### 1. **[따라하며 배우는 C++(바로가기)](https://www.inflearn.com/course/following-c-plus/)**
+
+> 참고: 사이트 로그인 실패 시 [NAS(바로가기)](http://210.115.48.72:5000/) 이용바랍니다.  
+> Assignment의 경우 매주 실습으로 풀었던 문제를 GitHub 개인 Repository에 업로드합니다.
+
+- [ ] **Chapter 0. 시작해봅시다** (실습 없음)
+
+        0.0 C++ 꼭 공부해야 할까?
+        0.1 프로그래밍 언어란
+        0.2 C, C++ 언어 소개
+        0.3 프로그래밍 과정 소개
+        0.4.0 통합개발환경의 기본적인 사용법 – 윈도우즈 비쥬얼 스튜디오
+        0.4.1 통합개발환경의 기본적인 사용법 – 윈도우즈 리눅스 코드블럭스
+        0.4.2 비쥬얼 스튜디오 솔루션, 프로젝트 관리
+        0.5 코딩하다 막혔을 때는?
+
+<br>
 - [ ] **Chapter 1. C++의 기초적인 사용법**
+
+        1.1 프로그램의 구조
+        1.2 주석 comments
+        1.3 변수와의 첫 만남
+        1.4 입출력 스트림과의 첫 만남 cin, cout
+        1.5 함수와의 첫 만남
+        1.6 키워드와 식별자 이름짓기
+        1.7 지역 범위
+        1.8 연산자와의 첫 만남
+        1.9 기본적인 서식 맞추기
+        1.10 선언과 정의의 분리
+        1.11 헤더파일 만들기
+        1.12 헤더 가드가 필요한 이유
+        1.13 네임스페이스 (명칭 공간)
+        1.14 전처리기와의 첫 만남
 
 <br>  
 
-### 2. **[Linear Algebra (Khan academy, powerd by Edwith)](https://www.edwith.org/linear-algebra)** 
+### 2. [기초통계학(숙명여자대학교, 여인권)](http://www.kocw.net/home/cview.do?cid=c667b5bd6011a287)
+
+- [ ] **1주: 통계학이란?**
+      ([강의자료](http://contents.kocw.or.kr/KOCW/document/2014/sookmyung/yeoinkwon/1.pdf))
+
+<br>
+
+### 3. **[Linear Algebra (Khan academy, powerd by Edwith)](https://www.edwith.org/linear-algebra)** 
 - [x] ~~[Lec1 - 벡터 - 선형대수학을 위한 벡터란? (05:48)](http://www.edwith.org/linear-algebra/lecture/30304/)~~
 - [x] ~~[Lec2 - 벡터 - 실좌표공간 (06:21)](http://www.edwith.org/linear-algebra/lecture/30305/)~~
 - [x] ~~[Lec3 - 벡터 - 대수와 그래프를 이용한 벡터의 덧셈 (07:12)](http://www.edwith.org/linear-algebra/lecture/30306/)~~
@@ -57,7 +95,7 @@ C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 
 
 <br>
 
-### 3. [CS231n(Stanford)](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+### 4. [CS231n(Stanford)](https://github.com/insurgent92/CS231N_17_KOR_SUB)
 - [X] ~~Lec 1 - Introduction to Convolutional Neural Networks for Visual Recognition~~
 - [X] ~~Lec 2 - Image Classification~~
 - [x] ~~Lec 3 - Loss Functions and Optimization~~
@@ -70,13 +108,19 @@ C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 
   
 <br>
 
-### 4. Assignments
-1. ~~Stat 110 : No Assignments this week~~
-2. ~~Linear Algebra : No Assignments this week~~
-3. Computer Vision : **[[Assignment #5]](http://visual.kangwon.ac.kr/assignment)**  과제 꼭 제출해주세요! 
-4. ~~CS231n : No Assignments this week~~  
+### 5. Assignments
+1. ~~Linear Algebra : No Assignments this week~~
+2. ~~CS231n : No Assignments this week~~  
+3. C++: GitHub에 개인 Study Repository 만들고, Chapter 0, 1의 **들었던 강좌** 실습코드 올리기
+
 <br>  
+
+<hr>
+
+## 종료 스터디
+
 <br>
+
 ### ★. **[Stat 110 (Havard, powered by Edwith)](https://www.edwith.org/harvardprobability)**
 - [x] ~~[Lec 1 - 확률과 셈 원리 (Probability and Counting)](http://www.edwith.org/harvardprobability/lecture/29349/)~~
 - [x] ~~[Lec 2 - 해석을 통한 문제풀이 및 확률의 공리 (Story Proofs, Axioms of Probability)](http://www.edwith.org/harvardprobability/lecture/30894/)~~
@@ -90,11 +134,11 @@ C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 
 - [x] ~~[Lec 10 - 기댓값 (Expectation Continued)(50:09)](https://www.edwith.org/harvardprobability/lecture/30902/)~~ 
 - [x] ~~[Lec 11 - 포아송분포 (The Poisson distribution)(42:45)](https://www.edwith.org/harvardprobability/lecture/30903/)~~
 - [x] ~~[Lec 12 - 이산, 연속, 균등분포 (Discrete vs. Continuous, the Uniform)(49:55)](https://www.edwith.org/harvardprobability/lecture/30904/)~~  
-- [ ] **[Lec 13 - 정규분포 (Normal Distribution)(51:09)](https://www.edwith.org/harvardprobability/lecture/30905/)**
-- [ ] **[Lec 14 - 위치, 척도 및 무의식적인 통계학자의 법칙(Location, Scale, and LOTUS)(48:54)](https://www.edwith.org/harvardprobability/lecture/30906/)**
+- [ ] ~~[Lec 13 - 정규분포 (Normal Distribution)(51:09)](https://www.edwith.org/harvardprobability/lecture/30905/)~~
+- [ ] ~~[Lec 14 - 위치, 척도 및 무의식적인 통계학자의 법칙(Location, Scale, and LOTUS)(48:54)](https://www.edwith.org/harvardprobability/lecture/30906/)~~
 
- <br>  
- 
+<br> 
+
  ### ★. **Computer Vision**
 - [x] ~~Lec 1 - 소개 - 왜 컴퓨터 비전인가?~~
 - [x] ~~Lec 1 - 소개 - 컴퓨터 비전 문제는 어떻게 해결하나?~~
@@ -110,10 +154,13 @@ C++의 기본적인 내용은 빠르게 훑고 지나갈 예정이라 본인이 
 - [x] ~~Lec 2 - Image Processing - 컬러~~  
 - [x] ~~Lec 3 - Edge Detection - 에지 검출의 기초~~  
 - [x] ~~Lec 3 - Edge Detection - 영교차 이론~~  
-- [ ] **Lec 3 - Edge Detection - 캐니 에지**  
-- [ ] **Lec 3 - Edge Detection - 컬러 에지**  
+- [x] ~~Lec 3 - Edge Detection - 캐니 에지~~  
+- [x] ~~Lec 3 - Edge Detection - 컬러 에지~~  
 
-<br>
+### Computer Vision Assignment
+- 지난 Assignment(#2~4) 풀어보기: [http://visual.kangwon.ac.kr/assignment](http://visual.kangwon.ac.kr/assignment)
 
+<br> 
+<hr>
 
 [이전](../../)
