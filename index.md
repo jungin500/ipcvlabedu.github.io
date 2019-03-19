@@ -30,7 +30,8 @@ layout: default
 >- [x] [week4](./docs/class2/week4.html)  
 >- [x] [week5](./docs/class2/week5.html)  
 >- [x] [week6](./docs/class2/week6.html)
->- [ ] [week7](./docs/class2/week7.html)
+>- [x] [week7](./docs/class2/week7.html)  
+>- [ ] [week8](./docs/class2/week8.html)
 
 ### 2019 Class 2 Assignments  
 >- [x] ~~[Assignment #1 : Chap02 - 2 : Historgram](./docs/class2_assignments/assignment1.html) (Due : 2019 01 23)~~
